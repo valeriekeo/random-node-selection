@@ -32,6 +32,6 @@ def main():
     print(selectedNode.data)
 
 if __name__ == '__main__':
-    from nodeClass import Node, LinkedList
+    from linkedList import Node, LinkedList
     main()
 
